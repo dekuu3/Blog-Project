@@ -1,4 +1,4 @@
-##Blog 
+## Blog 
 
 A blog web app that allows users to create or delete blog posts. Users can also input Markdown and it will be converted into HTML.
 
